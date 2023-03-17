@@ -1,4 +1,4 @@
-### Hi there, This is me [Akash gupta][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, This is me [Akash gupta] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I’m a `designer` who <code>codes</code>, with 1+ Years of Experience
 
