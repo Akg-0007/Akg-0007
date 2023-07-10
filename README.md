@@ -12,6 +12,7 @@ I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day,
 - 🌱 I’m currently working as a freelancer 😎
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
+- port folio https://64ac05b280902c1b50575147--bespoke-mooncake-af0616.netlify.app/
 
 **languages and tools:**  
 
